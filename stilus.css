@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(27, 75, 12);
+    color: white;
+}
+main {
+    max-width: 800px;
+    margin: auto;
+}
+.pokemon img {
+    width: 100%;
+}
+.pokemon {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-color: blanchedalmond;
+    box-shadow: inset -1px 3px 8px 5px #79886b, 2px 5px 16px 0px #041a33,
+        0px -2px 7px 5px rgba(0, 0, 0, 0);
+    padding: 10px;
+}
+button {
+    background-color: #79886b;
+    color: white;
+    padding: 5px 12px;
+}
+h1,
+h2 {
+    font-variant: small-caps;
+    text-align: center;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
